@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "haskell.haskell",
     "sswg.swift-lang",
   ]
 }
